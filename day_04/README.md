@@ -1,4 +1,4 @@
-#💻 Exercises - Day 4
+#💻 Exercises - Day 4#
 
 1. Concatenate the string 'Thirty', 'Days', 'Of', 'Python' to a single string, 'Thirty Days Of Python'.
 2. Concatenate the string 'Coding', 'For' , 'All' to a single string, 'Coding For All'.
