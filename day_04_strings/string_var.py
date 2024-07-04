@@ -6,4 +6,7 @@ Declare a variable named company and assign it to an initial value "Coding For A
 '''
 
 company = str("Coding For All")
-print(comapany)
+print(company)
+
+#Print the length of the company string using len() method and print().
+print(len(company))
