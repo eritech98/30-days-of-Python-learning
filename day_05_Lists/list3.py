@@ -94,3 +94,25 @@ Remove()
 clearing = it_companies.clear()
 print(clearing)
 
+'''
+Join the following lists:
+
+front_end = ['HTML', 'CSS', 'JS', 'React', 'Redux']
+back_end = ['Node','Express', 'MongoDB']
+
+'''
+
+front_end,back_end = ['HTML', 'CSS', 'JS', 'React', 'Redux'], ['Node','Express', 'MongoDB']
+list = front_end + back_end
+print(list)
+
+'''
+After joining the lists in question 26. Copy the joined list and assign it
+to a variable full_stack. Then insert Python and SQL after Redux.
+'''
+
+full_stack = list.copy()
+print(full_stack)
+full_stack.insert(5,"Python"),full_stack.insert(6,"SQL")
+print(full_stack)
+
